@@ -11,7 +11,6 @@ I'd like to write better code than the previous one. So, t-ui2 will be composed 
 * *Core*
   + t-ui commands
   + build suggestions (*UI* will take suggestions from *Core*)
-    - sss
 * *UI*
   + input/output
   + show suggestions
