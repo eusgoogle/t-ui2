@@ -6,3 +6,6 @@ I need to rewrite t-ui in order to allow more people to contribute. Actually the
 ## Can I help you?
 Whoever wants to help is welcome! We need a lot of people in order to rewrite t-ui and add a lot of features. Please write me an e-mail if you want to join our Telegram group (a special group for those who are contributing to t-ui2).
 
+## Contact me
+* E-Mail: andreuzzi.francesco@gmail.com
+* Twitter: @f_andreuzzi
