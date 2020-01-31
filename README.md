@@ -20,6 +20,7 @@ I'd like to write better code than the previous one. So, t-ui2 will be composed 
   + apps
   + tty
   + read and store prefs in an hash map(?) 
+*UI* shouldn't compute anything, it needs to show data from *Core* and to receive input from the user. *Core* shouldn't contain Android specific code, but it should tell *Platform* when, for instance, the user wants to launch an application.
 
 ## Contact me
 * E-Mail: andreuzzi.francesco@gmail.com
