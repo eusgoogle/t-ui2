@@ -42,6 +42,9 @@ We'll be using Git as VCS. There are two branches:
 
 I will merge *develop* and *master* periodically, every time a new feature is ready for production.
 
+## Test, test, test
+One of the biggest errors I made with the first version of t-ui is underconsidering the importance of Unit tests. When you add a new feature, consider adding also some tests to ensure it's working fine. If someone else breaks your code, your test will let us now where is the problem and how to fix it.
+
 ## Contact me
 * E-Mail: andreuzzi.francesco@gmail.com
 * Twitter: @f_andreuzzi
