@@ -36,7 +36,7 @@ Each step will result in a working app.
 ## Technologies and how to contribute
 I'll be using [CircleCI](https://circleci.com/) for CI. It's the first time for me, so be patient :D
 
-We'll be using Git as VCS. There are two branches:
+We'll be using **Git** as VCS. There are two branches:
 * *master*: only **working** features here. A **fully working** APK will be available every time we merge to *master*
 * *develop* : Pull requests go here. When you want to merge, prepare a pull request to *develop*
 
