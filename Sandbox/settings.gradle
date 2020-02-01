@@ -1,0 +1,1 @@
+include ':app', ':emulatorview', ':term', ':libtermexec'
