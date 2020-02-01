@@ -1,2 +1,2 @@
-include ':app', ':ui', ':platform'
+include ':app', ':ui', ':platform', ':core'
 rootProject.name='t-ui2'
