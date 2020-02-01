@@ -32,7 +32,7 @@ I'd like to write better code than the previous one. So, t-ui2 will be composed 
 Each step will result in a working app.
 
 ## Technologies and how to contribute
-I'll be using CircleCI for CI. It's the first time for me, so be patient :D
+I'll be using [CircleCI](https://circleci.com/) for CI. It's the first time for me, so be patient :D
 
 We'll be using Git as VCS. There are two branches:
 * *master*: only **working** features here. A **fully working** APK will be available every time we merge to *master*.
