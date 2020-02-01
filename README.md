@@ -50,9 +50,9 @@ Commit messages are useful when I review your contributions before merging them 
 
 Examples of good commit messages which I found [here](https://chris.beams.io/posts/git-commit/):
 ```
-* *Fix failing CompositePropertySourceTests*
-* *Add tests for ImportSelector meta-data*
-* *Update docbook dependency and generate epub*
++ Fix failing CompositePropertySourceTests
++ Add tests for ImportSelector meta-data
++ Update docbook dependency and generate epub
 ```
 
 ## Contact me
