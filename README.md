@@ -37,13 +37,21 @@ Each step will result in a working app.
 I'll be using [CircleCI](https://circleci.com/) for CI. It's the first time for me, so be patient :D
 
 We'll be using Git as VCS. There are two branches:
-* *master*: only **working** features here. A **fully working** APK will be available every time we merge to *master*.
-* *develop* : Pull requests go here. When you want to merge, prepare a pull request to *develop*.
+* *master*: only **working** features here. A **fully working** APK will be available every time we merge to *master*
+* *develop* : Pull requests go here. When you want to merge, prepare a pull request to *develop*
 
 I will merge *develop* and *master* periodically, every time a new feature is ready for production.
 
 ## Test, test, test
 One of the biggest errors I made with the first version of t-ui is underconsidering the importance of Unit tests. When you add a new feature, consider adding also some tests to ensure it's working fine. If someone else breaks your code, your test will let us now where is the problem and how to fix it.
+
+## Write meaningful commit messages
+Commit messages are useful when I review your contributions before merging them inside *develop*. And they are more useful when we're looking for the source of a bug. Commit everytime you feel like you've added something so important that it can be described by a short sentence.
+
+Some examples of useful commit messages which I found [here](https://chris.beams.io/posts/git-commit/):
+* Fix failing CompositePropertySourceTests
+* Add tests for ImportSelector meta-data
+* Update docbook dependency and generate epub
 
 ## Contact me
 * E-Mail: andreuzzi.francesco@gmail.com
