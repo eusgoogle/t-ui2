@@ -31,6 +31,15 @@ I'd like to write better code than the previous one. So, t-ui2 will be composed 
 
 Each step will result in a working app.
 
+## Technologies and how to contribute
+I'll be using CircleCI for CI. It's the first time for me, so be patient :D
+
+We'll be using Git as VCS. There are two branches:
+* *master*: only **working** features here. A **fully working** APK will be available every time we merge to *master*.
+* *develop* : Pull requests go here. When you want to merge, prepare a pull request to *develop*.
+
+I will merge *develop* and *master* periodically, every time a new feature is ready for production.
+
 ## Contact me
 * E-Mail: andreuzzi.francesco@gmail.com
 * Twitter: @f_andreuzzi
