@@ -49,9 +49,11 @@ One of the biggest errors I made with the first version of t-ui is underconsider
 Commit messages are useful when I review your contributions before merging them inside *develop*. And they are more useful when we're looking for the source of a bug. Commit everytime you feel like you've added something so important that it can be described by a short sentence.
 
 Examples of good commit messages which I found [here](https://chris.beams.io/posts/git-commit/):
+```
 * *Fix failing CompositePropertySourceTests*
 * *Add tests for ImportSelector meta-data*
 * *Update docbook dependency and generate epub*
+```
 
 ## Contact me
 * E-Mail: andreuzzi.francesco@gmail.com
