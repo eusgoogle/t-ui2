@@ -10,14 +10,14 @@ Whoever wants to help is welcome! We need a lot of people in order to rewrite t-
 
 ## Architecture
 I'd like to write better code than the previous one. So, t-ui2 will be composed of 3 big modules:
-* *Core*
+* **Core**
   + t-ui commands
   + build suggestions (*UI* will take suggestions from *Core*)
-* *UI*
+* **UI**
   + input/output
   + show suggestions
   + show device info
-* *Platform*
+* **Platform**
   + files
   + apps
   + tty
@@ -31,7 +31,7 @@ I'd like to write better code than the previous one. So, t-ui2 will be composed 
 * Step 3: apps and alias
 * Step 4: suggestions and prefs
 
-Each step will result in a working app.
+Each step will result in a **working** app.
 
 ## Technologies and how to contribute
 I'll be using [CircleCI](https://circleci.com/) for CI. It's the first time for me, so be patient :D
